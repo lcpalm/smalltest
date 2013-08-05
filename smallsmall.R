@@ -2,6 +2,13 @@
 # modified from little test code
 # 8/4/13 
 
+# OK, I think I get it. Steps:
+# 1. Create a 'new' repository on GitHub.
+# 2. Create a new project in RStudio, locally, and set it to use that repository.
+# 3. Make your edits/commits/etc.
+# 4. "Push" it back onto the GitHub. Somehow this is a branch, but it's the master branch still. OK.
+# 5. If I take it at work.... how does that work? Well I will find out tomorrow.
+
 # Everything below the line, was created in a different RProject ("testProject"), which I attempted to 
 # use git on. Git worked, probably, but I only had a local version and couldn't see how to upload it.
 
